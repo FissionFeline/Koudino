@@ -1,7 +1,9 @@
-# Panoptikon
+# Koudino Commissions
 
-This is an art commission website for Makkozai a good friend of mine
+I did a quick website for a friend of mine
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3daf9028-bdfd-4027-b9ed-2d15f7ce1dfc/deploy-status)](https://app.netlify.com/sites/makkozai/deploys)
+Design was pretty simplistic. This website itself didnt take too long but I am happy with the result 
 
-And yeah im using Netlify since it's Epik !!!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03fac497-efcf-4f3a-b177-9bc35c65bd0a/deploy-status)](https://app.netlify.com/sites/koudino/deploys)
+
+also im still using netlify dont ask
